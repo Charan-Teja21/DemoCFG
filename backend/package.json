@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "JPMC MOCK",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js"
+  },
+  "author": "Charan",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^22.3.0"
+  }
+}
